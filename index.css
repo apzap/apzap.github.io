@@ -15,11 +15,12 @@ label {
 .container {
   padding-left: 50px !important;
   padding-right: 60px !important;
-  border: 1px solid;
+
   padding-top: 50px;
   padding-bottom: 50px;
   background-color: white;
   border-radius: 10px;
+  box-shadow: 0 4px 16px -8px rgba(0, 0, 0.8, 1);
 }
 @media only screen and (max-width: 600px) {
   body {
